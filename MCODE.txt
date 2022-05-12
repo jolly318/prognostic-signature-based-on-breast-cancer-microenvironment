@@ -1,0 +1,19 @@
+MCODE App Results
+Date: 2020-3-2 15:07:03
+
+Parameters:
+   Network Scoring:
+      Include Loops: true  Degree Cutoff: 2
+   Cluster Finding:
+      Node Score Cutoff: 0.2  Haircut: true  Fluff: false  K-Core: 2  Max. Depth from Seed: 100
+
+Cluster	Score (Density*#Nodes)	Nodes	Edges	Node IDs
+1	10.154	12	66	PNOC, FPR1, CCL21, CCR4, CCR2, CCL19, P2RY12, CCR5, P2RY13, GPR18, CNR2, CXCR3
+2	5.4	9	27	CD69, IL7R, CD8A, CD28, CD2, CD27, PTPRC, SPN, CD3G
+3	2.444	8	11	GRAP2, CD5, CR2, CD79A, CD1C, CD52, ITK, CD3E
+4	2.333	5	7	NLRP3, IL6, TLR8, MMP9, CYBB
+5	2	4	5	TLR4, CSF1R, TLR7, VCAM1
+6	1.5	3	3	DOCK2, FYB, PLEK
+7	1.5	3	3	IKZF1, BLK, PAX5
+8	1.5	3	3	GIMAP6, GIMAP5, GIMAP7
+9	1.5	3	3	GPR65, XCR1, NTSR2
